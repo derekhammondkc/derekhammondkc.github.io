@@ -1,0 +1,10 @@
+# Site Settings
+title: 'Derek Hammond'
+description: 'A Blog of Sorts'
+url: '' # the base hostname & protocol for your site
+footer_text: 'This is a footer'
+
+# Admin Settings
+admin_name: 'Derek'
+admin_email: 'dhamm44@gmail.com'
+
