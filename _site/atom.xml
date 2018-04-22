@@ -4,13 +4,22 @@
  <title>this is a blog</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2018-04-22T11:24:25-05:00</updated>
+ <updated>2018-04-22T11:55:57-05:00</updated>
  <id></id>
  <author>
    <name>Derek</name>
    <email>dhamm44@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Lets have a toast for the douchebags</title>
+   <link href="/Yeezy-copy.html"/>
+   <updated>2018-02-09T03:17:34-06:00</updated>
+   <id>/Yeezy-copy</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Up your art game, dude</title>
@@ -31,16 +40,25 @@
  </entry>
  
  <entry>
-   <title>Censored in Pinkkk</title>
-   <link href="/Censored-in-pink.html"/>
+   <title>Censored</title>
+   <link href="/Censored.html"/>
    <updated>2017-08-31T08:26:34-05:00</updated>
-   <id>/Censored-in-pink</id>
+   <id>/Censored</id>
    <content type="html">&lt;h3 id=&quot;fix-your-wallpaper-game-fampai&quot;&gt;Fix your wallpaper game, fampai.&lt;/h3&gt;
 
-&lt;h2&gt;&lt;img src=&quot;/public/win.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/public/pink.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;
+&lt;h2&gt;&lt;img src=&quot;/public/hello.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/public/trap.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;
 –
-&lt;img src=&quot;/public/twenty.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/public/zzz.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>hittin off licks in the bando</title>
+   <link href="/panda.html"/>
+   <updated>2017-05-09T05:00:00-05:00</updated>
+   <id>/panda</id>
+   <content type="html">
 </content>
  </entry>
  
