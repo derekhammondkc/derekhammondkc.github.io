@@ -4,13 +4,31 @@
  <title>this is a blog</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2018-04-22T11:09:19-05:00</updated>
+ <updated>2018-04-22T11:21:45-05:00</updated>
  <id></id>
  <author>
    <name>Derek</name>
    <email>dhamm44@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Up your art game, dude</title>
+   <link href="/art-game.html"/>
+   <updated>2018-01-31T07:26:34-06:00</updated>
+   <id>/art-game</id>
+   <content type="html">&lt;h3 id=&quot;fix-your-game-bruh&quot;&gt;fix your game, bruh&lt;/h3&gt;
+
+&lt;p&gt;–
+&lt;img src=&quot;/public/heaven_opens.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;
+–
+&lt;img src=&quot;/public/fall.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;
+–
+&lt;img src=&quot;/public/out.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;
+–
+&lt;img src=&quot;/public/future.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Pretty In Pink</title>
