@@ -1,5 +1,6 @@
 main:
     - { url: '/', text: 'Blog' }
     - { url: '/about', text: 'About' }
+    - { url: '/archive', text: 'Archive' }
     - { url: 'https://twitter.com/derekhammondkc', text: 'Find me on Twitter' }
     - { url: 'https://github.com/derekhammondkc', text: 'Fork on GitHub' }

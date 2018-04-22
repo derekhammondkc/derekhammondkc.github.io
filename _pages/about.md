@@ -4,36 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Proven record of exceptional call center supervision. Robust knowledge of call center technologies including IVR's, CRM's, predictive dialers, and varying VOIP, CRM, and LMS software. 
+Robust knowledge and experience in client relationship management up to executive level. Currently providing client-facing support in the technology solutions industry applied to the alternative investment space with a focus on varied REIT, BDC, and Interval fund products. Strong ability to present and articulate problem/solutions abilities/benefits provided to clients via company sponsored technology products. 
 
-Capable multi-tasker and able to manage various projects simultaneously. Strong analytical capabilities. Proven ability to effectively take part in decisions with senior level management. Major team player with a strong sense of leadership. 
+Proven record of exceptional call center management. In-depth knowledge of call center technologies including IVR's, CRM's, predictive dialers, and varying VoIP, CRM, and LMS software. 
 
-Proven record of meeting and far exceeding sales quotas in all sales environments. Results-oriented with nine years retail sales experience, over four years experience in loan processing industry and over ten years of experience in wireless communications and technology.
+Capable multi-tasker and able to manage various projects simultaneously. Strong analytical capabilities. Proven ability to effectively take part in decision making at executive level. Major team player with a strong sense of leadership. 
 
-{% highlight javascript %}
-function meow() {
-    return 'meow';
-}
+Proven record of meeting and far exceeding sales quotas in all sales environments. Results-oriented with nine years sales experience, over six years experience in the FinTech sector and over ten years of experience in wireless communications.
 
-function bark() {
-    return 'woof';
-}
-
-function getRandomAnimal() {
-
-    var animals = [
-        'cat',
-        'dog',
-        'hippo',
-        'lion',
-        'bear',
-        'zebra'
-    ];
-
-    return animals[Math.floor(Math.random()*animals.length)];
-}
-
-console.log(meow());
-console.log(bark());
-console.log(getRandomAnimal());
-{% endhighlight %}
+## Skills/Experience/Hobbies:
+- IRA Specialist, Boston Financial Data Services, 2016
+- Microsoft Access
+- Static site generatos, ie. Jekyll
+- Wordpress web development
+- Bootstrap software
+- Experience with varying programming languages, mainly Python, JavaScript, and jQuery
+- Basic Linux kernel OS knowledge
+- Virtualization Software
+- Basic Cisco hardware and software knowledge
+- Adobe products, Photoshop, Lightroom 
+- Google Sensei

@@ -5975,7 +5975,7 @@ nav.navbar {
       transform: scale(1.35); }
 
 .title-group {
-  text-align: center;
+  text-align: left;
   padding: 0 15px;
   margin: 50px 0 100px; }
   .title-group p {
@@ -5984,7 +5984,7 @@ nav.navbar {
 
 h1.special {
   position: relative;
-  text-align: center;
+  text-align: left;
   overflow: hidden;
   margin: 0;
   text-transform: uppercase;

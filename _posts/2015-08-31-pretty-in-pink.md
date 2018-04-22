@@ -1,0 +1,17 @@
+---
+layout: inner
+title: 'Pretty in Pinkkk'
+date: 201-08-31 13:26:34
+categories: blog
+tags: cats dogs code
+featured_image: '/public/pink.jpg'
+lead_text: ''
+---
+
+### Fix your wallpaper game, fampai. 
+
+<img src="/public/win.jpg" alt="Drawing" style="width: 1000px;"/>
+--
+<img src="/public/pink.jpg" alt="Drawing" style="width: 1000px;"/>
+--
+<img src="/public/twenty.jpg" alt="Drawing" style="width: 1000px;"/>
