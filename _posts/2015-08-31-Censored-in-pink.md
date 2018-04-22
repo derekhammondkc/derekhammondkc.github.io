@@ -1,10 +1,10 @@
 ---
 layout: inner
-title: 'Pretty in Pinkkk'
+title: 'Censored in Pinkkk'
 date: 201-08-31 13:26:34
 categories: blog
 tags: cats dogs code
-featured_image: '/public/pink.jpg'
+featured_image: '/public/censored.png'
 lead_text: ''
 ---
 

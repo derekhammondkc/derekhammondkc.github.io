@@ -4,7 +4,7 @@
  <title>this is a blog</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2018-04-22T10:55:36-05:00</updated>
+ <updated>2018-04-22T11:09:19-05:00</updated>
  <id></id>
  <author>
    <name>Derek</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Pretty In Pink</title>
-   <link href="/new.html"/>
+   <link href="/pinkkk.html"/>
    <updated>2015-08-31T08:26:34-05:00</updated>
-   <id>/new</id>
+   <id>/pinkkk</id>
    <content type="html">&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
 
 &lt;h2&gt;&lt;img src=&quot;/public/win.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;&lt;/h2&gt;
@@ -28,7 +28,7 @@
  </entry>
  
  <entry>
-   <title>fug</title>
+   <title>Federico Fellini in the flesh</title>
    <link href="/Yeezy.html"/>
    <updated>2015-07-09T17:17:34-05:00</updated>
    <id>/Yeezy</id>
@@ -37,10 +37,10 @@
  </entry>
  
  <entry>
-   <title>Pretty in Pinkkk</title>
-   <link href="/pretty-in-pink.html"/>
+   <title>Censored in Pinkkk</title>
+   <link href="/Censored-in-pink.html"/>
    <updated>0201-08-31T13:26:34-06:00</updated>
-   <id>/pretty-in-pink</id>
+   <id>/Censored-in-pink</id>
    <content type="html">&lt;h3 id=&quot;fix-your-wallpaper-game-fampai&quot;&gt;Fix your wallpaper game, fampai.&lt;/h3&gt;
 
 &lt;h2&gt;&lt;img src=&quot;/public/win.jpg&quot; alt=&quot;Drawing&quot; style=&quot;width: 1000px;&quot; /&gt;&lt;/h2&gt;
