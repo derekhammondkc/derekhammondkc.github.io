@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'Censored in Pinkkk'
-date: 201-08-31 13:26:34
+date: 2017-08-31 13:26:34
 categories: blog
 tags: cats dogs code
 featured_image: '/public/censored.png'
