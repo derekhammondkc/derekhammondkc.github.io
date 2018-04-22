@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+<div>
+<img src="/public/www.jpg" alt="Drawing" style="width: 1000px;"/>
+</div>
+-- 
+
 Robust knowledge and experience in client relationship management up to executive level. Currently providing client-facing support in the technology solutions industry applied to the alternative investment space with a focus on varied REIT, BDC, and Interval fund products. Strong ability to present and articulate problem/solutions abilities/benefits provided to clients via company sponsored technology products. 
 
 Proven record of exceptional call center management. In-depth knowledge of call center technologies including IVR's, CRM's, predictive dialers, and varying VoIP, CRM, and LMS software. 

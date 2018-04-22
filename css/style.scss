@@ -78,17 +78,17 @@ h1.special {
     text-align: left;
     overflow: hidden;
     margin: 0;
-    text-transform: uppercase;
+    text-transform: lowercase;
     @extend %oswald;
-    font-size: 69px;
-    line-height: 69px;
-    font-weight: 700;
-    color: $scotch-primary;
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 900;
+    color: #8d2d96;
 
     span {
         display: inline-block;
         position: relative;
-        padding: 0 15px;
+        padding: 10px 15px;
         max-width: 1000px;
 
         &:before, &:after {

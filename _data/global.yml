@@ -3,6 +3,7 @@ title: 'this is a blog'
 description: 'by derekhammondkc'
 url: '' # the base hostname & protocol for your site
 footer_text: 'This is a footer. 2018. All rights reserved.'
+comments: true
 
 # Admin Settings
 admin_name: ''
