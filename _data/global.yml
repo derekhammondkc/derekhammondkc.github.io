@@ -1,10 +1,10 @@
 # Site Settings
 title: 'this is a blog'
-description: 'derek hammond'
+description: 'by derekhammondkc'
 url: '' # the base hostname & protocol for your site
-footer_text: 'This is a footer'
+footer_text: 'This is a footer. 2018. All rights reserved.'
 
 # Admin Settings
-admin_name: 'Derek'
+admin_name: ''
 admin_email: 'dhamm44@gmail.com'
 
