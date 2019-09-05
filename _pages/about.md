@@ -19,9 +19,9 @@ Proven record of exceptional call center management. In-depth knowledge of call 
 
 Capable multi-tasker and able to manage various projects simultaneously. Strong analytical capabilities. Proven ability to effectively take part in decision making at executive level. Major team player with a strong sense of leadership.
 
-Proven record of meeting and far exceeding sales quotas in all sales environments. Results-oriented with nine years sales experience, over six years experience in the FinTech sector and over ten years of experience in wireless communications and relationship management.
+Proven record of meeting and far exceeding sales quotas in all sales environments. Results-oriented with nine years sales experience, over six years experience in the Fin Tech sector and over ten years of experience in wireless communications and relationship management.
 
-Static Site Portfolio:
+## Static Site Portfolio:
 https://derekhammondkc.github.io/orange-portfolio/
 https://derekhammondkc.github.io/modern-green/ 
 
