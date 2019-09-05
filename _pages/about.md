@@ -22,8 +22,12 @@ Capable multi-tasker and able to manage various projects simultaneously. Strong 
 Proven record of meeting and far exceeding sales quotas in all sales environments. Results-oriented with nine years sales experience, over six years experience in the Fin Tech sector and over ten years of experience in wireless communications and relationship management.
 
 ## Static Site Portfolio:
-https://derekhammondkc.github.io/orange-portfolio/
-https://derekhammondkc.github.io/modern-green/ 
+
+[Orange Portfolio](https://derekhammondkc.github.io/orange-portfolio/)
+
+[Modern Green](https://derekhammondkc.github.io/orange-portfolio)
+
+
 
 ## Skills/Experience/Hobbies:
 - Microsoft Access
